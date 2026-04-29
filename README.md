@@ -39,4 +39,6 @@ Key Insights:
 - Transaction activity patterns
 
 ## Sample Output
+<img width="2559" height="1297" alt="databricks_sample_output" src="https://github.com/user-attachments/assets/79fbdc29-4ad4-4730-99e6-feeff2173090" />
+<img width="2559" height="1293" alt="databricks_code" src="https://github.com/user-attachments/assets/4e039483-4613-43ec-9050-de37825c03c7" />
 <img width="2559" height="1439" alt="BI_Dashboard" src="https://github.com/user-attachments/assets/21510386-860b-460f-8bef-80140f7f6061" />

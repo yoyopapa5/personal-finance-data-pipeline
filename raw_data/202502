@@ -1,0 +1,9 @@
+Date,Transaction,Deposit,Withdrawal,Balance in Original Currency
+2025-01-28 0:00:00,Balance Brought Forward,,,764542.52
+2025-02-28 0:00:00,Balance Carried Forward,,,815409.03
+2025-02-28 0:00:00,Interest,153,,815409.03
+2025-01-31 0:00:00,Interest,159,,764701.11
+2025-02-05 0:00:00,Transfer,,264.8,795256.31
+2025-02-05 0:00:00,Transfer,,5000,795521.11
+2025-02-25 0:00:00,Transfer,20000,,815256.31
+2025-02-03 0:00:00,Transfer,35820,,800521.11

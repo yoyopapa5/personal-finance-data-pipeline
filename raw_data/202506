@@ -1,0 +1,11 @@
+Date,Transaction,Deposit,Withdrawal,Balance in Original Currency
+2025-05-30 0:00:00,Balance Brought Forward,,,841914.54
+2025-06-30 0:00:00,Balance Carried Forward,,,871592.57
+2025-06-30 0:00:00,Interest,177,,871592.57
+2025-05-31 0:00:00,Interest,181,,842095.67
+2025-06-11 0:00:00,Transfer,,6500,858415.67
+2025-06-09 0:00:00,Transfer,,6500,864915.67
+2025-06-05 0:00:00,Transfer,,6500,871415.67
+2025-06-14 0:00:00,Transfer,,10000,848415.67
+2025-06-25 0:00:00,Transfer,23000,,871415.67
+2025-06-02 0:00:00,Transfer,35820,,877915.67
